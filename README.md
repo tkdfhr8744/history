@@ -10,7 +10,7 @@
 > * [서버프로그램 구현]()
 > * [데이터 입출력 구현](https://github.com/tkdfhr8744/history/blob/master/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B5%AC%ED%98%84.zip)
 > * [통합 구현](https://github.com/tkdfhr8744/history/blob/master/%ED%86%B5%ED%95%A9%EA%B5%AC%ED%98%84)
-> * [제품소프트웨어 패키징]()
+> * [제품소프트웨어 패키징](https://github.com/tkdfhr8744/history/blob/master/%EA%B9%80%EC%83%81%EB%A1%9D-%EB%A9%94%EB%89%B4%EC%96%BC%EC%9E%91%EC%84%B1.pdf)
 > * [정보시스템 이행]()
 > * [애플리케이션 테스트 수행]()
 > * [애플리케이션 테스트 관리]()
